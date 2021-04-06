@@ -1,0 +1,13 @@
+body{
+    background: #d9d9d9;
+    text-align: center;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+img{
+    width: 400px;
+    margin: 20px;
+}
